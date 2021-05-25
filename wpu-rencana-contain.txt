@@ -3,6 +3,7 @@ rencana-contain-wpu
 - java script
   * ES6
   * framework java script
+  - struktur data dasar
 - PHP framework
 - interview
 - vlogs
