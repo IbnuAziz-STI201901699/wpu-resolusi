@@ -1,6 +1,8 @@
 rencana-contain-wpu
 
 - java script
+  * ES6
+  * framework java script
 - PHP framework
 - interview
 - vlogs
